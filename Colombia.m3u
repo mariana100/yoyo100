@@ -1,0 +1,24 @@
+#EXTM3U url-tvg="http://epg.in.ua/epg/tvprogram_ua_ru.gz, http://rytecepg.ipservers.eu/epg_data/rytecxmltv-Greece.gz ,http://sgcpm.com/epg/devilcosta.gz ,http://epg.tododream.com/latinmunich_xmltv-movistar-spain_todo.gz,http://iptv.programadorx.cl/epg/claro.xml"
+
+
+
+#EXTINF:-1 tvg-id="CanalesdelpuebloIPTV" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/874398170146643968/5lII2Wbl_400x400.jpg" group-title="Deportes",CARACOL
+http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:-1 tvg-id="CanalesdelpuebloIPTV" tvg-name="" tvg-logo="https://imagenes.canalrcn.com/CanalRCN/imagen-compartir-canal.jpg" group-title="Deportes",RCN
+https://rcnhd.cdn.net.co/live01/rcnhd_720p.m3u8
+#EXTINF:-1 tvg-id="CanalesdelpuebloIPTV" tvg-name="" tvg-logo="https://i.ytimg.com/vi/BHdyO2kaGJk/maxresdefault.jpg" group-title="Deportes",NTN24
+https://rcnhd.cdn.net.co/live04/ntn24_480p.m3u8
+#EXTINF:-1 tvg-id="CanalesdelpuebloIPTV" tvg-name="" tvg-logo="https://cdn.colombia.com/canales/telepacifico-3309.jpg" group-title="Deportes",TELEPACIFICO
+https://cdn.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
