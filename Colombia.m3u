@@ -12,7 +12,6 @@ https://rcnhd.cdn.net.co/live04/ntn24_480p.m3u8?
 #EXTINF:-1 tvg-id="CanalesdelpuebloIPTV" tvg-name="" tvg-logo="https://cdn.colombia.com/canales/telepacifico-3309.jpg" group-title="Noticias",TELEPACIFICO
 https://livecdn.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b1200000.m3u8?
 #EXTINF:-1,CO: Canal 1 SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; …) Gecko/20100101 Firefox/57.0
 http://s3linkgapp.net:25461/6Z2IIlAIaB/Descarga-Desde-PlayStore-GnulaTVLite-A544610/16185
 #EXTINF:-1,CO: Canal 1 HD
 http://s3linkgapp.net:25461/6Z2IIlAIaB/Descarga-Desde-PlayStore-GnulaTVLite-A544610/16186
@@ -21,8 +20,7 @@ http://s3linkgapp.net:25461/6Z2IIlAIaB/Descarga-Desde-PlayStore-GnulaTVLite-A544
 #EXTINF:-1,CO: Caracol HD
 http://s3linkgapp.net:25461/6Z2IIlAIaB/Descarga-Desde-PlayStore-GnulaTVLite-A544610/16188
 #EXTINF:-1,CO: Caracol Full HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; …) Gecko/20100101 Firefox/57.0
-http://s3linkgapp.net:25461/6Z2IIlAIaB/Descarga-Desde-PlayStore-GnulaTVLite-A544610/16189
+http://s3linkgapp.net:25461/6Z2IIlAIaB/Descarga-Desde-PlayStore-GnulaTVLite-A544610/16189$OPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; …) Gecko/20100101 Firefox/57.0
 #EXTINF:-1,CO: Caracol Internacional Full HD
 http://s3linkgapp.net:25461/6Z2IIlAIaB/Descarga-Desde-PlayStore-GnulaTVLite-A544610/16190
 #EXTINF:-1,CO: RCN Nuestra Tele Full HD
