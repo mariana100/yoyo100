@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.in.ua/epg/tvprogram_ua_ru.gz, http://rytecepg.ipservers.eu/epg_data/rytecxmltv-Greece.gz ,http://sgcpm.com/epg/devilcosta.gz ,http://epg.tododream.com/latinmunich_xmltv-movistar-spain_todo.gz,http://iptv.programadorx.cl/epg/claro.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/XTREAMTV/listagratis/master/COLOMBIA.xml,http://iptv.programadorx.cl/epg/claro.xml"
 
 
 
