@@ -1,82 +1,78 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/XTREAMTV/listagratis/master/guide.xml,http://iptv.programadorx.cl/epg/claro.xml"
 
-#EXTINF:-1,CO: Canal 1 SD
-http://thagui-group-bolivia.com:25461/7bXyFKOKbl/Descarga-Desde-PlayStore-GnulaTV-Lite-GRATIS/16185
-#EXTINF:-1,CO: Canal 1 HD
-http://thagui-group-bolivia.com:25461/7bXyFKOKbl/Descarga-Desde-PlayStore-GnulaTV-Lite-GRATIS/16186
-#EXTINF:-1,CO: Caracol SD
-http://thagui-group-bolivia.com:25461/7bXyFKOKbl/Descarga-Desde-PlayStore-GnulaTV-Lite-GRATIS/16187
-#EXTINF:-1,CO: Caracol HD
-http://thagui-group-bolivia.com:25461/7bXyFKOKbl/Descarga-Desde-PlayStore-GnulaTV-Lite-GRATIS/16188
-#EXTINF:-1,CO: Caracol Full HD
-http://thagui-group-bolivia.com:25461/7bXyFKOKbl/Descarga-Desde-PlayStore-GnulaTV-Lite-GRATIS/16189
-#EXTINF:-1,CO: Caracol Internacional Full HD
-http://thagui-group-bolivia.com:25461/7bXyFKOKbl/Descarga-Desde-PlayStore-GnulaTV-Lite-GRATIS/16190
-#EXTINF:-1,CO: RCN Nuestra Tele Full HD
-http://thagui-group-bolivia.com:25461/7bXyFKOKbl/Descarga-Desde-PlayStore-GnulaTV-Lite-GRATIS/16191
-#EXTINF:-1,CO: RCN SD
-http://thagui-group-bolivia.com:25461/7bXyFKOKbl/Descarga-Desde-PlayStore-GnulaTV-Lite-GRATIS/16192
-#EXTINF:-1,CO: RCN HD
-http://thagui-group-bolivia.com:25461/7bXyFKOKbl/Descarga-Desde-PlayStore-GnulaTV-Lite-GRATIS/16193
-#EXTINF:-1,CO: RCN HD2
-http://thagui-group-bolivia.com:25461/7bXyFKOKbl/Descarga-Desde-PlayStore-GnulaTV-Lite-GRATIS/16194
-#EXTINF:-1,CO: RCN Novelas
-http://thagui-group-bolivia.com:25461/7bXyFKOKbl/Descarga-Desde-PlayStore-GnulaTV-Lite-GRATIS/16195
-#EXTINF:-1,CO: TeleAntioquia HD
-http://thagui-group-bolivia.com:25461/7bXyFKOKbl/Descarga-Desde-PlayStore-GnulaTV-Lite-GRATIS/16196
-#EXTINF:-1,CO: Telecafe SD
-http://thagui-group-bolivia.com:25461/7bXyFKOKbl/Descarga-Desde-PlayStore-GnulaTV-Lite-GRATIS/16197
-#EXTINF:-1,CO: Telecafe HD
-http://thagui-group-bolivia.com:25461/7bXyFKOKbl/Descarga-Desde-PlayStore-GnulaTV-Lite-GRATIS/16198
-#EXTINF:-1,CO: Telemedellin HD
-http://thagui-group-bolivia.com:25461/7bXyFKOKbl/Descarga-Desde-PlayStore-GnulaTV-Lite-GRATIS/16199
-#EXTINF:-1,CO: Telecaribe HD
-http://thagui-group-bolivia.com:25461/7bXyFKOKbl/Descarga-Desde-PlayStore-GnulaTV-Lite-GRATIS/16200
-#EXTINF:-1,CO: Canal Capital HD
-http://thagui-group-bolivia.com:25461/7bXyFKOKbl/Descarga-Desde-PlayStore-GnulaTV-Lite-GRATIS/16201
-#EXTINF:-1,CO: Cosmovision HD
-http://thagui-group-bolivia.com:25461/7bXyFKOKbl/Descarga-Desde-PlayStore-GnulaTV-Lite-GRATIS/16202
-#EXTINF:-1,CO: Canal Doce
-http://thagui-group-bolivia.com:25461/7bXyFKOKbl/Descarga-Desde-PlayStore-GnulaTV-Lite-GRATIS/16203
-#EXTINF:-1,CO: NTV Canal
-http://thagui-group-bolivia.com:25461/7bXyFKOKbl/Descarga-Desde-PlayStore-GnulaTV-Lite-GRATIS/16204
-#EXTINF:-1,CO: CNC Medellin HD
-http://thagui-group-bolivia.com:25461/7bXyFKOKbl/Descarga-Desde-PlayStore-GnulaTV-Lite-GRATIS/16205
-#EXTINF:-1,CO: CNC Pasto
-http://thagui-group-bolivia.com:25461/7bXyFKOKbl/Descarga-Desde-PlayStore-GnulaTV-Lite-GRATIS/16206
-#EXTINF:-1,CO: Suram TV HD
-http://thagui-group-bolivia.com:25461/7bXyFKOKbl/Descarga-Desde-PlayStore-GnulaTV-Lite-GRATIS/16207
-#EXTINF:-1,CO: NTN24
-http://thagui-group-bolivia.com:25461/7bXyFKOKbl/Descarga-Desde-PlayStore-GnulaTV-Lite-GRATIS/16208
-#EXTINF:-1,CO: Pasiones
-http://thagui-group-bolivia.com:25461/7bXyFKOKbl/Descarga-Desde-PlayStore-GnulaTV-Lite-GRATIS/16209
-#EXTINF:-1,CO: Pasiones Full HD
-http://thagui-group-bolivia.com:25461/7bXyFKOKbl/Descarga-Desde-PlayStore-GnulaTV-Lite-GRATIS/16210
-#EXTINF:-1,CO: Cable Noticias HD
-http://thagui-group-bolivia.com:25461/7bXyFKOKbl/Descarga-Desde-PlayStore-GnulaTV-Lite-GRATIS/16211
-#EXTINF:-1,CO: Canal Institucional
-http://thagui-group-bolivia.com:25461/7bXyFKOKbl/Descarga-Desde-PlayStore-GnulaTV-Lite-GRATIS/16212
-#EXTINF:-1,CO: Cantinazo HD
-http://thagui-group-bolivia.com:25461/7bXyFKOKbl/Descarga-Desde-PlayStore-GnulaTV-Lite-GRATIS/16213
-#EXTINF:-1,CO: City Tv
-http://thagui-group-bolivia.com:25461/7bXyFKOKbl/Descarga-Desde-PlayStore-GnulaTV-Lite-GRATIS/16214
-#EXTINF:-1,CO: El Tiempo
-http://thagui-group-bolivia.com:25461/7bXyFKOKbl/Descarga-Desde-PlayStore-GnulaTV-Lite-GRATIS/16215
-#EXTINF:-1,CO: La Kalle HD
-http://thagui-group-bolivia.com:25461/7bXyFKOKbl/Descarga-Desde-PlayStore-GnulaTV-Lite-GRATIS/16216
-#EXTINF:-1,CO: Señal Colombia SD
-http://thagui-group-bolivia.com:25461/7bXyFKOKbl/Descarga-Desde-PlayStore-GnulaTV-Lite-GRATIS/16217
-#EXTINF:-1,CO: Señal Colombia HD
-http://thagui-group-bolivia.com:25461/7bXyFKOKbl/Descarga-Desde-PlayStore-GnulaTV-Lite-GRATIS/16218
-#EXTINF:-1,CO: TV Agro SD
-http://thagui-group-bolivia.com:25461/7bXyFKOKbl/Descarga-Desde-PlayStore-GnulaTV-Lite-GRATIS/16219
-#EXTINF:-1,CO: TV Agro HD
-http://thagui-group-bolivia.com:25461/7bXyFKOKbl/Descarga-Desde-PlayStore-GnulaTV-Lite-GRATIS/16220
-#EXTINF:-1,CO: Canal Trece HD
-http://thagui-group-bolivia.com:25461/7bXyFKOKbl/Descarga-Desde-PlayStore-GnulaTV-Lite-GRATIS/16221
-#EXTINF:-1,CO: Telepacifico HD
-http://thagui-group-bolivia.com:25461/7bXyFKOKbl/Descarga-Desde-PlayStore-GnulaTV-Lite-GRATIS/16222
-#EXTINF:-1,CO: Canal Tro
-http://thagui-group-bolivia.com:25461/7bXyFKOKbl/Descarga-Desde-PlayStore-GnulaTV-Lite-GRATIS/16223
-#EXTINF:-1,CO: Teleisla SD
-http://thagui-group-bolivia.com:25461/7bXyFKOKbl/Descarga-Desde-PlayStore-GnulaTV-Lite-GRATIS/16224
+#EXTINF:-1,Channel11554
+http://thagui-group-bolivia.com:25461/iRyJHISzqE/Descarga-Desde-PlayStore-GnulaTV-GRATIS/47833
+#EXTINF:-1,Channel11555
+http://thagui-group-bolivia.com:25461/iRyJHISzqE/Descarga-Desde-PlayStore-GnulaTV-GRATIS/47834
+#EXTINF:-1,Channel11556
+http://thagui-group-bolivia.com:25461/iRyJHISzqE/Descarga-Desde-PlayStore-GnulaTV-GRATIS/47835
+#EXTINF:-1,Channel11557
+http://thagui-group-bolivia.com:25461/iRyJHISzqE/Descarga-Desde-PlayStore-GnulaTV-GRATIS/47836
+#EXTINF:-1,Channel11558
+http://thagui-group-bolivia.com:25461/iRyJHISzqE/Descarga-Desde-PlayStore-GnulaTV-GRATIS/47837
+#EXTINF:-1,Channel11559
+http://thagui-group-bolivia.com:25461/iRyJHISzqE/Descarga-Desde-PlayStore-GnulaTV-GRATIS/47838
+#EXTINF:-1,Channel11560
+http://thagui-group-bolivia.com:25461/iRyJHISzqE/Descarga-Desde-PlayStore-GnulaTV-GRATIS/47839
+#EXTINF:-1,Channel11561
+http://thagui-group-bolivia.com:25461/iRyJHISzqE/Descarga-Desde-PlayStore-GnulaTV-GRATIS/47840
+#EXTINF:-1,Channel11562
+http://thagui-group-bolivia.com:25461/iRyJHISzqE/Descarga-Desde-PlayStore-GnulaTV-GRATIS/47841
+#EXTINF:-1,Channel11563
+http://thagui-group-bolivia.com:25461/iRyJHISzqE/Descarga-Desde-PlayStore-GnulaTV-GRATIS/47842
+#EXTINF:-1,Channel11564
+http://thagui-group-bolivia.com:25461/iRyJHISzqE/Descarga-Desde-PlayStore-GnulaTV-GRATIS/47843
+#EXTINF:-1,Channel11565
+http://thagui-group-bolivia.com:25461/iRyJHISzqE/Descarga-Desde-PlayStore-GnulaTV-GRATIS/47844
+#EXTINF:-1,Channel11566
+http://thagui-group-bolivia.com:25461/iRyJHISzqE/Descarga-Desde-PlayStore-GnulaTV-GRATIS/47845
+#EXTINF:-1,Channel11567
+http://thagui-group-bolivia.com:25461/iRyJHISzqE/Descarga-Desde-PlayStore-GnulaTV-GRATIS/47846
+#EXTINF:-1,Channel11568
+http://thagui-group-bolivia.com:25461/iRyJHISzqE/Descarga-Desde-PlayStore-GnulaTV-GRATIS/47847
+#EXTINF:-1,Channel11569
+http://thagui-group-bolivia.com:25461/iRyJHISzqE/Descarga-Desde-PlayStore-GnulaTV-GRATIS/47848
+#EXTINF:-1,Channel11570
+http://thagui-group-bolivia.com:25461/iRyJHISzqE/Descarga-Desde-PlayStore-GnulaTV-GRATIS/47849
+#EXTINF:-1,Channel11571
+http://thagui-group-bolivia.com:25461/iRyJHISzqE/Descarga-Desde-PlayStore-GnulaTV-GRATIS/47850
+#EXTINF:-1,Channel11572
+http://thagui-group-bolivia.com:25461/iRyJHISzqE/Descarga-Desde-PlayStore-GnulaTV-GRATIS/47851
+#EXTINF:-1,Channel11573
+http://thagui-group-bolivia.com:25461/iRyJHISzqE/Descarga-Desde-PlayStore-GnulaTV-GRATIS/47852
+#EXTINF:-1,Channel11574
+http://thagui-group-bolivia.com:25461/iRyJHISzqE/Descarga-Desde-PlayStore-GnulaTV-GRATIS/47853
+#EXTINF:-1,Channel11575
+http://thagui-group-bolivia.com:25461/iRyJHISzqE/Descarga-Desde-PlayStore-GnulaTV-GRATIS/47854
+#EXTINF:-1,Channel11576
+http://thagui-group-bolivia.com:25461/iRyJHISzqE/Descarga-Desde-PlayStore-GnulaTV-GRATIS/47855
+#EXTINF:-1,Channel11577
+http://thagui-group-bolivia.com:25461/iRyJHISzqE/Descarga-Desde-PlayStore-GnulaTV-GRATIS/47856
+#EXTINF:-1,Channel11578
+http://thagui-group-bolivia.com:25461/iRyJHISzqE/Descarga-Desde-PlayStore-GnulaTV-GRATIS/47857
+#EXTINF:-1,Channel11579
+http://thagui-group-bolivia.com:25461/iRyJHISzqE/Descarga-Desde-PlayStore-GnulaTV-GRATIS/47858
+#EXTINF:-1,Channel11580
+http://thagui-group-bolivia.com:25461/iRyJHISzqE/Descarga-Desde-PlayStore-GnulaTV-GRATIS/47859
+#EXTINF:-1,Channel11581
+http://thagui-group-bolivia.com:25461/iRyJHISzqE/Descarga-Desde-PlayStore-GnulaTV-GRATIS/47860
+#EXTINF:-1,Channel11582
+http://thagui-group-bolivia.com:25461/iRyJHISzqE/Descarga-Desde-PlayStore-GnulaTV-GRATIS/47861
+#EXTINF:-1,Channel11583
+http://thagui-group-bolivia.com:25461/iRyJHISzqE/Descarga-Desde-PlayStore-GnulaTV-GRATIS/47862
+#EXTINF:-1,Channel11584
+http://thagui-group-bolivia.com:25461/iRyJHISzqE/Descarga-Desde-PlayStore-GnulaTV-GRATIS/47863
+#EXTINF:-1,Channel11585
+http://thagui-group-bolivia.com:25461/iRyJHISzqE/Descarga-Desde-PlayStore-GnulaTV-GRATIS/47864
+#EXTINF:-1,Channel11586
+http://thagui-group-bolivia.com:25461/iRyJHISzqE/Descarga-Desde-PlayStore-GnulaTV-GRATIS/47865
+#EXTINF:-1,Channel11587
+http://thagui-group-bolivia.com:25461/iRyJHISzqE/Descarga-Desde-PlayStore-GnulaTV-GRATIS/47866
+#EXTINF:-1,Channel11588
+http://thagui-group-bolivia.com:25461/iRyJHISzqE/Descarga-Desde-PlayStore-GnulaTV-GRATIS/47867
+#EXTINF:-1,Channel11589
+http://thagui-group-bolivia.com:25461/iRyJHISzqE/Descarga-Desde-PlayStore-GnulaTV-GRATIS/47868
+#EXTINF:-1,Channel11590
+http://thagui-group-bolivia.com:25461/iRyJHISzqE/Descarga-Desde-PlayStore-GnulaTV-GRATIS/47869
+#EXTINF:-1,Channel11591
+http://thagui-group-bolivia.com:25461/iRyJHISzqE/Descarga-Desde-PlayStore-GnulaTV-GRATIS/47870
