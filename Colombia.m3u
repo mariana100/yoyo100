@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="CO | Caracol" tvg-logo="" group-title="Colombia",CO | Caracol
-http://195.201.205.194:5000/live/tvlive/sXyDwMUxpm/180|User-Agent=eyJwYXJhbXMiOnsiZXhwIjoxNTY5eyJwYXJhbXMiOnsiZXhwIjoxNTY5MDgyMzY3LCJzZXNzadjflasudnodinnfsoisW9uIjoiNjkuMTE0LjQxLjc4IiwMDgyMzY3LCJzZXNzaW9uIjoiNjkuMTE0LjQxLjc4Iiwid2hpdGVsaXN0IjpbIjY5LjExNC40MQxLjc4IiwMDgyMzY3LCJzZXNzaW9uIjoiNjkuMTE0LjQxLjc4Iiwid2hpdGVsaXN0IjpbIjY5LjExNC40MS43OCJdfSwic2lnbmF0dXJlIjoiZjMzMTIxOTE3ZGIwN2RjYWVkNmMyNDY1NGU3YmZkNTIwYzA0ODkxZiJ9
+#EXTVLCOPT:http-user-agent=eyJwYXJhbXMiOnsiZXhwIjoxNTY5eyJwYXJhbXMiOnsiZXhwIjoxNTY5MDgyMzY3LCJzZXNzadjflasudnodinnfsoisW9uIjoiNjkuMTE0LjQxLjc4IiwMDgyMzY3LCJzZXNzaW9uIjoiNjkuMTE0LjQxLjc4Iiwid2hpdGVsaXN0IjpbIjY5LjExNC40MQxLjc4IiwMDgyMzY3LCJzZXNzaW9uIjoiNjkuMTE0LjQxLjc4Iiwid2hpdGVsaXN0IjpbIjY5LjExNC40MS43OCJdfSwic2lnbmF0dXJlIjoiZjMzMTIxOTE3ZGIwN2RjYWVkNmMyNDY1NGU3YmZkNTIwYzA0ODkxZiJ9
+http://195.201.205.194:5000/live/tvlive/sXyDwMUxpm/180.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CO | Canal 1" tvg-logo="" group-title="Colombia",CO | Canal 1
 http://195.201.205.194:5000/live/tvlive/sXyDwMUxpm/182.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CO | RCN" tvg-logo="" group-title="Colombia",CO | RCN
