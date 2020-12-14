@@ -1,82 +1,80 @@
 #EXTM3U
 
-#EXTINF:-1,tvg-id="Canal Uno" tvg-name="Canal Uno" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1505167587769-Imagen.png" group-title="COLOMBIA",Canal UNO SD
+#EXTINF:-1 tvg-id="Canal Uno" tvg-name="Canal Uno" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1505167587769-Imagen.png" group-title="COLOMBIA",Canal UNO SD
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63775
-#EXTINF:-1,tvg-id="Canal Uno" tvg-name="Canal Uno" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1505167635321-Imagen.png" group-title="COLOMBIA",Canal UNO HD
+#EXTINF:-1 tvg-id="Canal Uno" tvg-name="Canal Uno" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1505167635321-Imagen.png" group-title="COLOMBIA",Canal UNO HD
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63776
-#EXTINF:-1,tvg-id="Caracol" tvg-name="Caracol" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529356644165-Imagen.jpg" group-title="COLOMBIA",Caracol SD
+#EXTINF:-1 tvg-id="Caracol" tvg-name="Caracol" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529356644165-Imagen.jpg" group-title="COLOMBIA",Caracol SD
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63778
-#EXTINF:-1,tvg-id="Caracol" tvg-name="Caracol" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529363057785-Imagen.jpg" group-title="COLOMBIA",Caracol HD
+#EXTINF:-1 tvg-id="Caracol" tvg-name="Caracol" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529363057785-Imagen.jpg" group-title="COLOMBIA",Caracol HD
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63779
-#EXTINF:-1,tvg-id="Caracol" tvg-name="Caracol" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529363057785-Imagen.jpg" group-title="COLOMBIA",Caracol FHD
+#EXTINF:-1 tvg-id="Caracol" tvg-name="Caracol" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529363057785-Imagen.jpg" group-title="COLOMBIA",Caracol FHD
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63782
-#EXTINF:-1,tvg-id="RCN" tvg-name="RCN" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1569012593631-Imagen.jpg" group-title="COLOMBIA",RCN SD
+#EXTINF:-1 tvg-id="RCN" tvg-name="RCN" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1569012593631-Imagen.jpg" group-title="COLOMBIA",RCN SD
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63783
-#EXTINF:-1,tvg-id="RCN" tvg-name="RCN" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1569012593631-Imagen.jpg" group-title="COLOMBIA",RCN HD
+#EXTINF:-1 tvg-id="RCN" tvg-name="RCN" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1569012593631-Imagen.jpg" group-title="COLOMBIA",RCN HD
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63784
-#EXTINF:-1,tvg-id="RCN" tvg-name="RCN" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1569012593631-Imagen.jpg" group-title="COLOMBIA",RCN FHD
+#EXTINF:-1 tvg-id="RCN" tvg-name="RCN" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1569012593631-Imagen.jpg" group-title="COLOMBIA",RCN FHD
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63785
-#EXTINF:-1,tvg-id="RCN" tvg-name="RCN" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1569012593631-Imagen.jpg" group-title="COLOMBIA",RCN FFHD
+#EXTINF:-1 tvg-id="RCN" tvg-name="RCN" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1569012593631-Imagen.jpg" group-title="COLOMBIA",RCN FFHD
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63786
-#EXTINF:-1,tvg-id="RCN Novelas" tvg-name="RCN Novelas" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529360472132-Imagen.png" group-title="COLOMBIA",RCN Novelas
+#EXTINF:-1 tvg-id="RCN Novelas" tvg-name="RCN Novelas" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529360472132-Imagen.png" group-title="COLOMBIA",RCN Novelas
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63787
-#EXTINF:-1,tvg-id="TeleAntioquia" tvg-name="TeleAntioquia" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1554845248602-Imagen.jpg" group-title="COLOMBIA",TeleAntioquia SD
+#EXTINF:-1 tvg-id="TeleAntioquia" tvg-name="TeleAntioquia" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1554845248602-Imagen.jpg" group-title="COLOMBIA",TeleAntioquia SD
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63789
-#EXTINF:-1,tvg-id="TeleAntioquia" tvg-name="TeleAntioquia" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1554845248602-Imagen.jpg" group-title="COLOMBIA",TeleAntioquia HD
+#EXTINF:-1 tvg-id="TeleAntioquia" tvg-name="TeleAntioquia" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1554845248602-Imagen.jpg" group-title="COLOMBIA",TeleAntioquia HD
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63790
-#EXTINF:-1,tvg-id="TeleCafe" tvg-name="TeleCafe" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1553870702094-Imagen.png" group-title="COLOMBIA",Telecafe SD
+#EXTINF:-1 tvg-id="TeleCafe" tvg-name="TeleCafe" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1553870702094-Imagen.png" group-title="COLOMBIA",Telecafe SD
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63791
-#EXTINF:-1,tvg-id="TeleCafe" tvg-name="TeleCafe" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1553870702094-Imagen.png" group-title="COLOMBIA",Telecafe HD
+#EXTINF:-1 tvg-id="TeleCafe" tvg-name="TeleCafe" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1553870702094-Imagen.png" group-title="COLOMBIA",Telecafe HD
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63792
-#EXTINF:-1,tvg-id="Señal Colombia" tvg-name="Señal Colombia" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529358822725-Imagen.png" group-title="COLOMBIA",Señal Colombia SD
+#EXTINF:-1 tvg-id="Señal Colombia" tvg-name="Señal Colombia" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529358822725-Imagen.png" group-title="COLOMBIA",Señal Colombia SD
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63814
-#EXTINF:-1,tvg-id="Señal Colombia" tvg-name="Señal Colombia" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529358822725-Imagen.png" group-title="COLOMBIA",Señal Colombia HD
+#EXTINF:-1 tvg-id="Señal Colombia" tvg-name="Señal Colombia" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529358822725-Imagen.png" group-title="COLOMBIA",Señal Colombia HD
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63815
-#EXTINF:-1,tvg-id="TeleMedellin" tvg-name="TeleMedellin" tvg-logo="https://www.lyngsat.com/logo/tv/tt/telemedellin-co.png" group-title="COLOMBIA",TeleMedellin HD
+#EXTINF:-1 tvg-id="TeleMedellin" tvg-name="TeleMedellin" tvg-logo="https://www.lyngsat.com/logo/tv/tt/telemedellin-co.png" group-title="COLOMBIA",TeleMedellin HD
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63794
-#EXTINF:-1,tvg-id="TeleCaribe" tvg-name="TeleCaribe" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1536962638606-Imagen.jpg" group-title="COLOMBIA",TeleCaribe HD
+#EXTINF:-1 tvg-id="TeleCaribe" tvg-name="TeleCaribe" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1536962638606-Imagen.jpg" group-title="COLOMBIA",TeleCaribe HD
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63796
-#EXTINF:-1,tvg-id="Canal Trece" tvg-name="Canal Trece" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529362306272-Imagen.png" group-title="COLOMBIA",Canal Trece HD
+#EXTINF:-1 tvg-id="Canal Trece" tvg-name="Canal Trece" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529362306272-Imagen.png" group-title="COLOMBIA",Canal Trece HD
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63797
-#EXTINF:-1,tvg-id="Canal Capital" tvg-name="Canal Capital" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1586958792441-Imagen.jpg" group-title="COLOMBIA",Canal Capital HD
+#EXTINF:-1 tvg-id="Canal Capital" tvg-name="Canal Capital" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1586958792441-Imagen.jpg" group-title="COLOMBIA",Canal Capital HD
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63798
-#EXTINF:-1,tvg-id="CNC" tvg-name="CNC" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/co-canal-cnc-pasto-9490.jpg" group-title="COLOMBIA",Canal CNC
+#EXTINF:-1 tvg-id="CNC" tvg-name="CNC" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/co-canal-cnc-pasto-9490.jpg" group-title="COLOMBIA",Canal CNC
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63800
-#EXTINF:-1,tvg-id="Pasiones" tvg-name="Pasiones" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1588686002709-Imagen.png" group-title="COLOMBIA",Canal Pasiones HD
+#EXTINF:-1 tvg-id="Pasiones" tvg-name="Pasiones" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1588686002709-Imagen.png" group-title="COLOMBIA",Canal Pasiones HD
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63806
-#EXTINF:-1,tvg-id="Cable Noticias" tvg-name="Cable Noticias" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752199942-Imagen.png" group-title="COLOMBIA",Cable Noticias HD
+#EXTINF:-1 tvg-id="Cable Noticias" tvg-name="Cable Noticias" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752199942-Imagen.png" group-title="COLOMBIA",Cable Noticias HD
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63807
-#EXTINF:-1,tvg-id="Cantinazo" tvg-name="Cantinazo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/CTV_LOGO.png" group-title="COLOMBIA",Cantinazo HD
+#EXTINF:-1 tvg-id="Cantinazo" tvg-name="Cantinazo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/CTV_LOGO.png" group-title="COLOMBIA",Cantinazo HD
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63809
-#EXTINF:-1,tvg-id="City TV" tvg-name="City TV" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1557851768894-Imagen.jpg" group-title="COLOMBIA",City TV SD
+#EXTINF:-1 tvg-id="City TV" tvg-name="City TV" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1557851768894-Imagen.jpg" group-title="COLOMBIA",City TV SD
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63810
-#EXTINF:-1,tvg-id="City TV" tvg-name="City TV" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1557851768894-Imagen.jpg" group-title="COLOMBIA",City TV HD
+#EXTINF:-1 tvg-id="City TV" tvg-name="City TV" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1557851768894-Imagen.jpg" group-title="COLOMBIA",City TV HD
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63811
-#EXTINF:-1,tvg-id="City TV" tvg-name="City TV" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1557851768894-Imagen.jpg" group-title="COLOMBIA",City TV FHD
+#EXTINF:-1 tvg-id="City TV" tvg-name="City TV" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1557851768894-Imagen.jpg" group-title="COLOMBIA",City TV FHD
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63812
-#EXTINF:-1,tvg-id="La Kalle" tvg-name="La Kalle" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/sdgsdm2qwcu6.jpeg" group-title="COLOMBIA",La Kalle HD
+#EXTINF:-1 tvg-id="La Kalle" tvg-name="La Kalle" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/sdgsdm2qwcu6.jpeg" group-title="COLOMBIA",La Kalle HD
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63813
-#EXTINF:-1,tvg-id="TvAgro" tvg-name="TvAgro" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529350298478-Imagen.png" group-title="COLOMBIA",TvAgro SD
+#EXTINF:-1 tvg-id="TvAgro" tvg-name="TvAgro" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529350298478-Imagen.png" group-title="COLOMBIA",TvAgro SD
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63816
-#EXTINF:-1,tvg-id="TvAgro" tvg-name="TvAgro" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529350298478-Imagen.png" group-title="COLOMBIA",TvAgro HD
+#EXTINF:-1 tvg-id="TvAgro" tvg-name="TvAgro" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529350298478-Imagen.png" group-title="COLOMBIA",TvAgro HD
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63817
-#EXTINF:-1,tvg-id="TvAgro" tvg-name="TvAgro" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529350298478-Imagen.png" group-title="COLOMBIA",TvAgro FHD
+#EXTINF:-1 tvg-id="TvAgro" tvg-name="TvAgro" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529350298478-Imagen.png" group-title="COLOMBIA",TvAgro FHD
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63818
-#EXTINF:-1,tvg-id="TelePacifico" tvg-name="TelePacifico" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1550089024471-Imagen.jpg" group-title="COLOMBIA",TelePacifico SD
+#EXTINF:-1 tvg-id="TelePacifico" tvg-name="TelePacifico" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1550089024471-Imagen.jpg" group-title="COLOMBIA",TelePacifico SD
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63819
-#EXTINF:-1,tvg-id="TelePacifico" tvg-name="TelePacifico" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1550089024471-Imagen.jpg" group-title="COLOMBIA",TelePacifico HD
+#EXTINF:-1 tvg-id="TelePacifico" tvg-name="TelePacifico" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1550089024471-Imagen.jpg" group-title="COLOMBIA",TelePacifico HD
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63820
-#EXTINF:-1,tvg-id="CaliTV" tvg-name="CaliTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Logo_CaliTV.png/130px-Logo_CaliTV.png" group-title="COLOMBIA",CaliTV HD
+#EXTINF:-1 tvg-id="CaliTV" tvg-name="CaliTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Logo_CaliTV.png/130px-Logo_CaliTV.png" group-title="COLOMBIA",CaliTV HD
 http://vbox.cehis.net/live-calitv/calitv1/master.m3u8
-#EXTINF:-1,tvg-id="Canal Tro" tvg-name="Canal Tro" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529352140112-Imagen.png" group-title="COLOMBIA",Canal Tro SD
+#EXTINF:-1 tvg-id="Canal Tro" tvg-name="Canal Tro" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529352140112-Imagen.png" group-title="COLOMBIA",Canal Tro SD
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63821
-#EXTINF:-1,tvg-id="Canal Tro" tvg-name="Canal Tro" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529352140112-Imagen.png" group-title="COLOMBIA",Canal Tro HD
+#EXTINF:-1 tvg-id="Canal Tro" tvg-name="Canal Tro" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529352140112-Imagen.png" group-title="COLOMBIA",Canal Tro HD
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63822
-#EXTINF:-1,tvg-id="TeleIslas" tvg-name="TeleIslas" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529356056579-Imagen.jpg" group-title="COLOMBIA",TeleIslas SD
+#EXTINF:-1 tvg-id="TeleIslas" tvg-name="TeleIslas" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529356056579-Imagen.jpg" group-title="COLOMBIA",TeleIslas SD
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63823
-#EXTINF:-1,tvg-id="TeleIslas" tvg-name="TeleIslas" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529356056579-Imagen.jpg" group-title="COLOMBIA",TeleIslas HD
+#EXTINF:-1 tvg-id="TeleIslas" tvg-name="TeleIslas" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529356056579-Imagen.jpg" group-title="COLOMBIA",TeleIslas HD
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63824
-#EXTINF:-1,tvg-id="Nuestra Tele" tvg-name="Nuestra Tele" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529357118753-Imagen.png" group-title="COLOMBIA",Nuestra Tele SD
+#EXTINF:-1 tvg-id="Nuestra Tele" tvg-name="Nuestra Tele" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529357118753-Imagen.png" group-title="COLOMBIA",Nuestra Tele SD
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63826
-
-
