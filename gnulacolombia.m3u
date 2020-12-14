@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="WinSport" tvg-name="CO | WinSport" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524753329060-Imagen.png" group-title="COLOMBIA",CO | WinSport SD
+http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/62480
+#EXTINF:-1 tvg-id="WinSport" tvg-name="CO | WinSport" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524753329060-Imagen.png" group-title="COLOMBIA",CO | WinSport HD
+http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/62481
+#EXTINF:-1 tvg-id="WinSport +" tvg-name="CO | WinSport +" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1578599009385-Imagen.jpg" group-title="COLOMBIA",CO | WinSport + SD
+http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/62482
+#EXTINF:-1 tvg-id="WinSport +" tvg-name="CO | WinSport +" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1578599009385-Imagen.jpg" group-title="COLOMBIA",CO | WinSport + HD
+http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/62483
 #EXTINF:-1 tvg-id="Canal Uno" tvg-name="CO | Canal Uno" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1505167587769-Imagen.png" group-title="COLOMBIA",CO | Canal UNO SD
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63775
 #EXTINF:-1 tvg-id="Canal Uno" tvg-name="CO | Canal Uno" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1505167635321-Imagen.png" group-title="COLOMBIA",CO | Canal UNO HD
@@ -32,7 +40,7 @@ http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-D
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63814
 #EXTINF:-1 tvg-id="Señal Colombia" tvg-name="CO | Señal Colombia" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529358822725-Imagen.png" group-title="COLOMBIA",CO | Señal Colombia HD
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63815
-#EXTINF:-1 tvg-id="TeleMedellin" tvg-name="CO |TeleMedellin" tvg-logo="https://www.lyngsat.com/logo/tv/tt/telemedellin-co.png" group-title="COLOMBIA",TeleMedellin HD
+#EXTINF:-1 tvg-id="TeleMedellin" tvg-name="CO |TeleMedellin" tvg-logo="https://cdn.mitvstatic.com/channels/gt_telemedellin_m.png" group-title="COLOMBIA",TeleMedellin HD
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63794
 #EXTINF:-1 tvg-id="TeleCaribe" tvg-name="CO | TeleCaribe" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1536962638606-Imagen.jpg" group-title="COLOMBIA",CO | TeleCaribe HD
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/zIYYvMc9WA/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63796
