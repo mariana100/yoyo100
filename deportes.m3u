@@ -1,9 +1,34 @@
 #EXTM3U
 
 
-#EXTINF:-1,ES: LIGA CAMPEONES
-https://cdnx.dailysportlist.xyz/2/2.m3u8
-#EXTINF:-1,ES: LIGA inglesa INGLES
-https://cdn2.dailysport.pw/epl1/1.m3u8
-#EXTINF:-1,ES: LIGA INGLESA EN ESPAÑOL
-https://cdn2.dailysport.pw/epl1/1.m3u8
+#EXTINF:-1,ES: Futbol 1
+https://dailysportbucket80.s3.eu-west-3.amazonaws.com/1/1.m3u8
+#EXTINF:-1,ES: Futbol 2
+https://dailysportbucket80.s3.eu-west-3.amazonaws.com/2/2.m3u8
+#EXTINF:-1,ES: Futbol 3
+https://dailysportbucket80.s3.eu-west-3.amazonaws.com/3/3.m3u8
+#EXTINF:-1,ES: Futbol 4
+https://dailysportbucket80.s3.eu-west-3.amazonaws.com/4/4.m3u8
+#EXTINF:-1,ES: Futbol 5
+https://dailysportbucket80.s3.eu-west-3.amazonaws.com/5/5.m3u8
+#EXTINF:-1,ES: Futbol 6
+https://dailysportbucket80.s3.eu-west-3.amazonaws.com/6/6.m3u8
+#EXTINF:-1,ES: Futbol 7
+https://dailysportbucket80.s3.eu-west-3.amazonaws.com/7/7.m3u8
+#EXTINF:-1,ES: Futbol 8
+https://dailysportbucket80.s3.eu-west-3.amazonaws.com/8/8.m3u8
+#EXTINF:-1,ES: Futbol 9
+https://dailysportbucket80.s3.eu-west-3.amazonaws.com/9/9.m3u8
+#EXTINF:-1,ES: Futbol 10
+https://dailysportbucket80.s3.eu-west-3.amazonaws.com/10/10.m3u8
+#EXTINF:-1,ES: Futbol 15
+https://dailysportbucket80.s3.eu-west-3.amazonaws.com/15/15.m3u8
+
+
+
+
+
+
+
+
+
