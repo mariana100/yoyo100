@@ -7,14 +7,14 @@ http://live.budtv-ultra.com:2956/BudwebV3/budwebultra2021/6T8TPO9j13/358.m3u8?wm
 http://23.237.190.242:8081/CODE-HD/196_FOXSPORT_505-ABR/DS1/196_FOXSPORT_505_480p/chunks.m3u8?nimblesessionid=604600&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIxIDU6MDQ6NDYgUE0maGFzaF92YWx1ZT13cGpMN3BKTmd2Rk5ES2VHNnVSU3l3PT0mdmFsaWRtaW51dGVzPTQwMA==
 #EXTINF:-1,ES: Liga de Campeones Sevilla vs Borussia Dortmund
 http://50.7.22.82:25461/BudwebV3/budwebultra2021/6T8TPO9j13/1264.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIxIDU6MTE6MjYgUE0maGFzaF92YWx1ZT00Rm1FK1dKRStPOG9HTkEvYzVRVk1nPT0mdmFsaWRtaW51dGVzPTQwMA==&token=SxoJAkQMEglAVwdQDQFeBAdeVgZSV1VSB1wLVg4DB1EEDQRVUVBUBQdAH0BKRRRVUFVsXlBDDQAHDgZJG0BAVkJnCAcVXhIAQE4RFlBcAxILCB8VRAhTEw8aAFcBAQYRHBoEG0MBQl0DDmwGXEcPU1QaCVlBDVsdF1dcOl1QXlJeXENZFVQSH0ALQBIbCwhFXVQfFVYIQ0NUTFdHAxcBAAAIQ08VB19GDBZBGxsLRHViGh8VURlDVFtLWwpXFwkRXQsUWxVIEloRPUEHSkUUVVBVVkUWWxUBFxQQCFhNbFBfVg8GVBBZXAwREVgbAUQcE1VcWV0VWENqSFsBGw8RAQMOV1cHRk0=
-#EXTINF:-1,ES: Liga de Campeones 
-https://dailysportbucket94.s3.eu-west-3.amazonaws.com/1/1.m3u8
-#EXTINF:-1,ES: Liga de Campeones ingles
-https://dailysportbucket95.s3.eu-west-2.amazonaws.com/e2/2.m3u8
-#EXTINF:-1,ES: Futbol 3
+#EXTINF:-1,ES: Levante vs Atlético Madrid
+https://dailysportbucket95.s3.eu-west-2.amazonaws.com/1/1.m3u8
+#EXTINF:-1,ES: Everton vs Manchester City
+https://dailysportbucket94.s3.eu-west-3.amazonaws.com/10/10.m3u8
+#EXTINF:-1,ES: Sevilla vs Borussia Dortmund
 https://dailysportbucket90.s3.eu-west-3.amazonaws.com/3/3.m3u8
-#EXTINF:-1,ES: Futbol 4
-https://dailysportbucket90.s3.eu-west-3.amazonaws.com/4/4.m3u8
+#EXTINF:-1,ES: Porto vs Juventus
+https://dailysportbucket94.s3.eu-west-3.amazonaws.com/7/7.m3u8
 #EXTINF:-1,ES: Futbol 5
 https://dailysportbucket90.s3.eu-west-3.amazonaws.com/5/5.m3u8
 #EXTINF:-1,ES: Futbol 6
