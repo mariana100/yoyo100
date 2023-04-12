@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/br.xml.gz,https://i.mjh.nz/PlutoTV/es.xml.gz,https://i.mjh.nz/PlutoTV/mx.xml.gz"
+#EXTINF:-1 tvg-id="6047fd723b5bd00007de7092" tvg-name="MTV Spankin' New" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lasexta.com%2Fespeciales%2Faniversario%2Flasexta-cumple-anos-mejor-que-nunca_201604105731fb976584a89405592bb3.html&psig=AOvVaw3VFntmHMck7bpHruiIzKOU&ust=1681384441463000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCPCCx6ibpP4CFQAAAAAdAAAAABAD" group-title="España" tvg-chno="000", La Sexta' New
+https://atres-live.atresmedia.com/3b0757e08fab03e3bc12cb9c138163e0248bdd0b_ES_1681297901_1681326641/h264/live/lasexta/master.m3u8
 #EXTINF:-1 tvg-id="5fa97a8a75cc210007c9041d" tvg-name="Guia de Canais" tvg-logo="https://images.pluto.tv/channels/5fa97a8a75cc210007c9041d/colorLogoPNG.png" group-title="Pluto TV" tvg-chno="1", Guia de Canais
 https://stitcher.pluto.tv/stitch/hls/channel/5fa97a8a75cc210007c9041d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f7f1ccbc-5904-11ec-9c08-0242ac110003
 #EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-name="Pluto TV Cine Sucessos" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="Filmes" tvg-chno="52", Pluto TV Cine Sucessos
